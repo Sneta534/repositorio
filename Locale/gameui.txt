@@ -1,14 +1,14 @@
-Rocket ROCK
-Bomb BOMB
+Rocket FOG
+Bomb BOMBA
 Torpedo TORP
-Status "Amo[%s]:%3d  Throttle: %d%%  Speed: %4d km/h  Altitude: %4d m"
-life "Life: %d%%"
-GEARS Gears
+Status "Mun[%s]:%3d  Aceleração: %d%%  Velocidade: %4d km/h  Altitude: %4d m"
+life "Vida: %d%%"
+GEARS "Trem de Pouso"
 KM/H KM/H
 ALT ALT
-ON ON
-OFF OFF
-supergun "Super bullets"
-superarm "Super weapon"
-maneuver Manoeuvres
-self-guided Self-guided
+ON LIGADO
+OFF DESLIGADO
+supergun "Superprojéteis"
+superarm "Superarma"
+maneuver Manobras
+self-guided Autoguiado

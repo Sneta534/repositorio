@@ -1,45 +1,45 @@
-BonusesFormat "Superbullets(%d) Superweapon(%d) Manoeuvre(%d) Self-guided(%d)"
-Shooting Shooting
-Fired Fired
-"Ratio, %" "Ratio, %"
-Hit Hit
-Guns Guns
-Bombs Bombs
-Rockets Rockets
-Torpedoes Torpedoes
-Enemy_Aircrafts "Enemy Aircrafts"
+BonusesFormat "Superprojéteis(%d) Superarma(%d) Manobra(%d) Autoguiado(%d)"
+Shooting Tiro
+Fired Disparados
+"Ratio, %" "Proporção, %"
+Hit Acertos
+Guns Armas
+Bombs Bombas
+Rockets Foguetes
+Torpedoes Torpedos
+Enemy_Aircrafts "Aeronaves Inimigas"
 Total Total
-Destroyed Destroyed
-Fighters Fighters
-Bombers Bombers
-Enemy_Ships "Enemy Ships"
-Battle_Ships "Battle Ships"
-Transport Transport
-Enemu_Ground_Objects "Enemy Ground Objects"
-Objects Objects
+Destroyed Destruídos
+Fighters Caças
+Bombers Bombardeiros
+Enemy_Ships "Navios Inimigos"
+Battle_Ships "Navios de Guerra"
+Transport Transporte
+Enemu_Ground_Objects "Objetos Terrestres Inimigos"
+Objects Objetos
 Bases Bases
-EASY EASY
+EASY FÁCIL
 NORMAL NORMAL
-HARD HARD
-PressAnyKey "* Press a key *"
-Campaign Europe
-fulfilled "MISSION SUCCEEDED"
-failed "MISSION FAILED"
-debriefToCampaign DIARY
-debriefToMissions MISSIONS
-"Break this mission?" "Break this mission?"
-"Quit to system?" "Quit to system?"
-"Do you want to restart?" "Do you want to restart?"
-Yes YES
-No NO
-Restart RESTART
-ranger Ranger
-defaultCampaign Campaign
-finalText "It's all over for now. Of course,  there are still a lot of things \r\nto mop-up. The Nazis poisoned many countries with their sick ideas\r\nand philosophies. There are many  of  their installations left all\r\nover Europe. But  still  their  main  citadel  -  Reichstag  -  is\r\ndestroyed! Hitler  is  dead, and Germany  is  under control of our \r\nalliance. \r\nI don't think that  the  rest  of  the  Nazis will survive without \r\ntheir leader. I've heard of thousands of them surrendering! \r\nI hope that I'll come back to my sweet home - Canada soon. Kiss my\r\nbeloved Marry and drink a good glass of beer with  my old friends!\r\nIt's  easier  to  talk  about this now because  the  war is nearly\r\nfinished."
-Recovering Recovering
-Ready Ready
-loadingText "Please wait while loading..."
-outOfMissionText "You are out of mission zone!"
-antialiasingOff "No antialiasing"
-antialiasingOn On
-AppTitle "Battle of Europe"
+HARD DIFÍCIL
+PressAnyKey "* Pressione uma tecla *"
+Campaign Europa
+fulfilled "MISSÃO BEM-SUCEDIDA"
+failed "MISSÃO FRACASSADA"
+debriefToCampaign DIÁRIO
+debriefToMissions MISSÕES
+"Break this mission?" "Abandonar esta missão?"
+"Quit to system?" "Sair para o sistema?"
+"Do you want to restart?" "Deseja recomeçar?"
+Yes SIM
+No NÃO
+Restart RECOMEÇAR
+ranger Patrulheiro
+defaultCampaign Campanha
+finalText "Acabou por enquanto. É claro que ainda há muita coisa \r\npara resolver. Os nazistas envenenaram muitos países com suas ideias\r\ne filosofias doentias. Há muitas instalações deles espalhadas por\r\ntoda a Europa. Mas mesmo assim sua cidadela principal - o Reichstag -\r\nfoi destruída! Hitler está morto, e a Alemanha está sob o controle\r\nda nossa aliança.\r\nEu não acho que o restante dos nazistas sobreviverá sem \r\no líder deles. Ouvi dizer que milhares deles estão se rendendo!\r\nEspero voltar logo para meu doce lar - Canadá. Beijar minha\r\namada Marry e tomar um bom copo de cerveja com meus velhos amigos!\r\nÉ mais fácil falar sobre isso agora porque a guerra está quase\r\nacabando."
+Recovering Recuperando
+Ready Pronto
+loadingText "Por favor, aguarde o carregamento..."
+outOfMissionText "Você está fora da zona de missão!"
+antialiasingOff "Sem anti-serrilhamento"
+antialiasingOn Ligado
+AppTitle "Batalha da Europa"

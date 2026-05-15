@@ -1,72 +1,72 @@
 ui {
   StartMenu {
     audio.psd {
-      "HARDWARE ACCELERATION" "HARDWARE ACCELERATION"
-      On On
-      Off Off
-      "AUDIO QUALITY" "AUDIO QUALITY"
-      Low Low
-      High High
-      "MAX. NUMBER OF VOICES" "MAX. NUMBER OF VOICES"
-      "MASTER VOLUME" "MASTER VOLUME"
-      "SPEECH VOLUME" "SPEECH VOLUME"
-      "MUSIC VOLUME" "MUSIC VOLUME"
-      "ENGINE VOLUME" "ENGINE VOLUME"
-      "EFFECTS VOLUME" "EFFECTS VOLUME"
-      AUDIO AUDIO
+      "HARDWARE ACCELERATION" "ACELERAÇÃO DE HARDWARE"
+      On Ligado
+      Off Desligado
+      "AUDIO QUALITY" "QUALIDADE DE ÁUDIO"
+      Low Baixa
+      High Alta
+      "MAX. NUMBER OF VOICES" "NÚM. MÁX. DE VOZES"
+      "MASTER VOLUME" "VOLUME GERAL"
+      "SPEECH VOLUME" "VOLUME DE FALA"
+      "MUSIC VOLUME" "VOLUME DE MÚSICA"
+      "ENGINE VOLUME" "VOLUME DO MOTOR"
+      "EFFECTS VOLUME" "VOLUME DE EFEITOS"
+      AUDIO ÁUDIO
     }
     brief.psd {
       Briefing BRIEFING
-      BACK BACK
-      NEXT NEXT
+      BACK VOLTAR
+      NEXT PRÓXIMO
     }
     campaign.psd {
-      NEW NEW
-      DELETE DELETE
+      NEW NOVO
+      DELETE EXCLUIR
       BRIEFING BRIEFING
-      Diary Diary
-      NEXT NEXT
-      BACK BACK
+      Diary Diário
+      NEXT PRÓXIMO
+      BACK VOLTAR
     }
     common_options.psd {
-      Options OPTIONS
-      VIDEO VIDEO
-      AUDIO AUDIO
-      CONTROLS CONTROLS
-      APPLY APPLY
-      CANCEL CANCEL
+      Options OPÇÕES
+      VIDEO VÍDEO
+      AUDIO ÁUDIO
+      CONTROLS CONTROLES
+      APPLY APLICAR
+      CANCEL CANCELAR
     }
     controls.psd {
-      ACTION ACTION
+      ACTION AÇÃO
       KEYBOARD ""
       JOYSTICK ""
-      CONTROLS CONTROLS
-      "MOUSE SENSITIVITY" "MOUSE SENSITIVITY"
-      "KEYBOARD SENSITIVITY" "KEYBOARD SENSITIVITY"
+      CONTROLS CONTROLES
+      "MOUSE SENSITIVITY" "SENSIBILIDADE DO MOUSE"
+      "KEYBOARD SENSITIVITY" "SENSIBILIDADE DO TECLADO"
       MOUSE/JOYSTICK MOUSE/JOYSTICK
-      "MOUSE INVERSE" "MOUSE INVERSE"
-      On On
-      Off Off
-      Low Low
-      High High
+      "MOUSE INVERSE" "MOUSE INVERTIDO"
+      On Ligado
+      Off Desligado
+      Low Baixa
+      High Alta
     }
     credits.psd {
-      Credits CREDITS
-      BACK BACK
-      QUIT QUIT
+      Credits CRÉDITOS
+      BACK VOLTAR
+      QUIT SAIR
       text1 "MAUS Software
 
-Leading programmer
+Programador líder
 IGOR BOZHKO
 
-Leading artist
+Artista líder
 JURI PAZINICH
 
-Programming
+Programação
 VYACHESLAV KUDRYA
 ANDREY OSTROVERKHOV
 
-3D Modelling
+Modelagem 3D
 DMITRY KLEVTSOV
 OLEG SHIKARYOV
 ALEXANDR PALAGUTA
@@ -76,206 +76,206 @@ ANDREY SAMOYLOV
 Interface
 JURI PAZINICH
 
-Textures
+Texturas
 JANA KISELYOVA
 DMITRY KLEVTSOV
 OLEG SHINKARYOV
 MAXIM MATSYUK
 
-Landscapes
+Paisagens
 JANA KISELYOVA
 
-Intro
+Introdução
 JURI PAZINICH
 OLEG SHINKARYOV
 
-Music
+Música
 DIRK HINKELMANN-GRUEBER
 EVGENIY MILITSA
-RUSSIAN STATE ARCHIVE OF PHONO DOCUMENTS
+ARQUIVO ESTATAL RUSSO DE FONODOCUMENTOS
 
-Audio
+Áudio
 DIRK HINKELMANN-GRUEBER
 STEPHEN ROBERT TAYLOR
 ALEXEY GRITSENKO
 
-Texts
+Textos
 EKATERINA YAKOVENKO
 ANDREY OSTROVERKHOV
 
-Consultant
+Consultor
 MICHAEL KOBETS
 
-3D Testing
+Testes 3D
 VYACHESLAV KUDRYA
 
-Testing
+Testes
 KIRILL GALANOV
 EKATERINA YAKOVENKO
 ALEXEY GRITSENKO
 
-Product management
+Gerenciamento de produto
 ILLYA TKACHUK
 
 Strategy First
 
-President
+Presidente
 DON MCFATRIDGE
 
-Senior V.P.
+Vice-Presidente Sênior
 BRIAN CLARKE
 
-V.P. Product Development
+Vice-Presidente de Desenvolvimento de Produto
 RICHARD THERRIEN
 
-V.P. Systems
+Vice-Presidente de Sistemas
 DAVE HILL
 
-Business Development Manager
+Gerente de Desenvolvimento de Negócios
 PRO SOTOS
 
-Executive Producer
+Produtor Executivo
 JAY PODILCHUK
 
-Associate Producer / Localization Manager
+Produtor Associado / Gerente de Localização
 BROCK BEAUBIEN
 
-Technical Coordinator / Associate Producer
+Coordenador Técnico / Produtor Associado
 DANNY KODAIS
 
-Manufacturing Coordinator / Product Manager
+Coordenador de Manufatura / Gerente de Produto
 EMAN WALL
 
-Graphic Design
+Design Gráfico
 LES PARSONS
 
-Tech Support
+Suporte Técnico
 JULIAN HERTEN-GREAVEN
 
-Marketing Coordinator
+Coordenadora de Marketing
 JESSICA HAWKER"
     }
     debriefing.psd {
-      Score Score
-      Bonuses Bonuses
-      CANCEL CANCEL
-      RESTART RESTART
-      CONTINUE CONTINUE
+      Score Pontuação
+      Bonuses Bônus
+      CANCEL CANCELAR
+      RESTART RECOMEÇAR
+      CONTINUE CONTINUAR
       MENU MENU
-      QUIT QUIT
+      QUIT SAIR
     }
     gallery.psd {
-      BACK BACK
-      QUIT QUIT
+      BACK VOLTAR
+      QUIT SAIR
     }
     game.psd {
-      GAME GAME
-      DIFFICULTY DIFFICULTY
-      AIM AIMS
-      "AUTO AIM" "AUTO AIM"
-      "RADAR DISTANCE" "RADAR DISTANCE"
+      GAME JOGO
+      DIFFICULTY DIFICULDADE
+      AIM MIRAS
+      "AUTO AIM" "MIRA AUTOMÁTICA"
+      "RADAR DISTANCE" "DISTÂNCIA DO RADAR"
       CONSOLE CONSOLE
-      Easy Easy
+      Easy Fácil
       Normal Normal
-      Hard Hard
-      On On
-      Off Off
-      Light Light
-      Full Full
-      Precise Precise
-      Rough Rough
+      Hard Difícil
+      On Ligado
+      Off Desligado
+      Light Leve
+      Full Completo
+      Precise Preciso
+      Rough Grosseiro
       1km "1 km"
       3km "3 km"
-      Low Low
-      High High
+      Low Baixo
+      High Alto
     }
     main.psd {
-      CAMPAIGN CAMPAIGN
-      MISSIONS MISSIONS
-      OPTIONS OPTIONS
-      GALLERY GALLERY
-      CREDITS CREDITS
-      PILOTS PILOTS
-      QUIT QUIT
+      CAMPAIGN CAMPANHA
+      MISSIONS MISSÕES
+      OPTIONS OPÇÕES
+      GALLERY GALERIA
+      CREDITS CRÉDITOS
+      PILOTS PILOTOS
+      QUIT SAIR
     }
     missions.psd {
       BRIEFING BRIEFING
-      Diary MISSIONS
-      NEXT NEXT
-      BACK BACK
+      Diary MISSÕES
+      NEXT PRÓXIMO
+      BACK VOLTAR
     }
     options.psd {
-      GAME GAME
-      VIDEO VIDEO
-      AUDIO AUDIO
-      CONTROLS CONTROLS
-      BACK BACK
-      APPLY APPLY
-      QUIT QUIT
+      GAME JOGO
+      VIDEO VÍDEO
+      AUDIO ÁUDIO
+      CONTROLS CONTROLES
+      BACK VOLTAR
+      APPLY APLICAR
+      QUIT SAIR
     }
     plane.psd {
-      BACK BACK
-      START START
-      param_names "Power
+      BACK VOLTAR
+      START INICIAR
+      param_names "Potência
 Altitude
-Cruise Velocity
-Max Velocity
+Velocidade de Cruzeiro
+Velocidade Máxima
 
-Life
+Vida
 
-Bombs
-Rockets
-Torpedoes"
+Bombas
+Foguetes
+Torpedos"
     }
     popup_campaign_name.psd {
-      "Enter your name:" "Enter campaign name:"
-      CANCEL CANCEL
+      "Enter your name:" "Digite o nome da campanha:"
+      CANCEL CANCELAR
       OK OK
     }
     popup_name.psd {
-      "Enter your name:" "Enter your name:"
-      "Select your level:" "Select your level:"
-      CANCEL CANCEL
+      "Enter your name:" "Digite seu nome:"
+      "Select your level:" "Selecione seu nível:"
+      CANCEL CANCELAR
       OK OK
     }
     popup_query.psd {
-      "Are you sure?" "Are you sure?"
-      NO NO
-      YES YES
+      "Are you sure?" "Tem certeza?"
+      NO NÃO
+      YES SIM
     }
     pilot.psd {
-      NEW NEW
-      DELETE DELETE
-      PLAY PLAY
-      QUIT QUIT
-      s_names "Level
-Scores
-Aircrafts
-Ships
-Objects
-Missions"
-      "HI SCORE:" "HI SCORE:"
-      "PILOT STATISTICS" "PILOT STATISTICS"
+      NEW NOVO
+      DELETE EXCLUIR
+      PLAY JOGAR
+      QUIT SAIR
+      s_names "Nível
+Pontuações
+Aeronaves
+Navios
+Objetos
+Missões"
+      "HI SCORE:" "RECORDE:"
+      "PILOT STATISTICS" "ESTATÍSTICAS DO PILOTO"
     }
     video.psd {
-      MODES_QUALITY_CHANGING "MODES & QUALITY CHANGING
-(Set preferred values)"
-      "VIDEO MODE" "VIDEO MODE"
-      "ANTIALIASING MODE" "ANTIALIASING MODE"
-      "TEXTURE DETAILS" "TEXTURE DETAILS"
-      "TEXTURE COMPRESSION" "TEXTURE COMPRESSION"
-      "GEOMETRY DETAILS" "GEOMETRY DETAILS"
-      "TERRAIN VISIBILITY" "TERRAIN VISIBILITY"
-      "TERRAIN DETAIL TEXTURES" "TERRAIN DETAIL TEXTURES"
-      On On
-      Off Off
-      Weak Weak
-      Rich Rich
-      Medium Medium
-      Near Near
-      Far Far
-      None None
-      VIDEO VIDEO
+      MODES_QUALITY_CHANGING "MODOS E QUALIDADE
+(Defina os valores preferidos)"
+      "VIDEO MODE" "MODO DE VÍDEO"
+      "ANTIALIASING MODE" "MODO DE ANTI-SERRILHAMENTO"
+      "TEXTURE DETAILS" "DETALHES DE TEXTURA"
+      "TEXTURE COMPRESSION" "COMPRESSÃO DE TEXTURA"
+      "GEOMETRY DETAILS" "DETALHES DE GEOMETRIA"
+      "TERRAIN VISIBILITY" "VISIBILIDADE DO TERRENO"
+      "TERRAIN DETAIL TEXTURES" "TEXTURAS DE DETALHE DO TERRENO"
+      On Ligado
+      Off Desligado
+      Weak Fraco
+      Rich Rico
+      Medium Médio
+      Near Perto
+      Far Longe
+      None Nenhum
+      VIDEO VÍDEO
       16Bit "16 Bit"
     }
   }

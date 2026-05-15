@@ -22,7 +22,7 @@ models/aircrafts/b-25.scn "North American B-25H Mitchell"
 models/aircrafts/arado.scn "Ar E.555-1"
 models/ships/Bismarck.scn Bismarck
 models/ships/HMSsmall.scn HMS
-models/ships/lst_eng.scn "British transport"
-models/ships/lst_ger.scn "German transport"
+models/ships/lst_eng.scn "Transporte britânico"
+models/ships/lst_ger.scn "Transporte alemão"
 models/ships/u-47.scn U-47
 models/ships/z20.scn Z20
