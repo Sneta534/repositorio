@@ -1,0 +1,45 @@
+BonusesFormat "Superbullets(%d) Superweapon(%d) Manoeuvre(%d) Self-guided(%d)"
+Shooting Shooting
+Fired Fired
+"Ratio, %" "Ratio, %"
+Hit Hit
+Guns Guns
+Bombs Bombs
+Rockets Rockets
+Torpedoes Torpedoes
+Enemy_Aircrafts "Enemy Aircrafts"
+Total Total
+Destroyed Destroyed
+Fighters Fighters
+Bombers Bombers
+Enemy_Ships "Enemy Ships"
+Battle_Ships "Battle Ships"
+Transport Transport
+Enemu_Ground_Objects "Enemy Ground Objects"
+Objects Objects
+Bases Bases
+EASY EASY
+NORMAL NORMAL
+HARD HARD
+PressAnyKey "* Press a key *"
+Campaign Europe
+fulfilled "MISSION SUCCEEDED"
+failed "MISSION FAILED"
+debriefToCampaign DIARY
+debriefToMissions MISSIONS
+"Break this mission?" "Break this mission?"
+"Quit to system?" "Quit to system?"
+"Do you want to restart?" "Do you want to restart?"
+Yes YES
+No NO
+Restart RESTART
+ranger Ranger
+defaultCampaign Campaign
+finalText "It's all over for now. Of course,  there are still a lot of things \r\nto mop-up. The Nazis poisoned many countries with their sick ideas\r\nand philosophies. There are many  of  their installations left all\r\nover Europe. But  still  their  main  citadel  -  Reichstag  -  is\r\ndestroyed! Hitler  is  dead, and Germany  is  under control of our \r\nalliance. \r\nI don't think that  the  rest  of  the  Nazis will survive without \r\ntheir leader. I've heard of thousands of them surrendering! \r\nI hope that I'll come back to my sweet home - Canada soon. Kiss my\r\nbeloved Marry and drink a good glass of beer with  my old friends!\r\nIt's  easier  to  talk  about this now because  the  war is nearly\r\nfinished."
+Recovering Recovering
+Ready Ready
+loadingText "Please wait while loading..."
+outOfMissionText "You are out of mission zone!"
+antialiasingOff "No antialiasing"
+antialiasingOn On
+AppTitle "Battle of Europe"

@@ -1,0 +1,28 @@
+models/aircrafts/fw-190.scn "Focke Wulf Fw 190"
+models/aircrafts/avro.scn "Avro Lancaster"
+models/aircrafts/bf-109.scn "Messerschmitt Bf 109"
+models/aircrafts/bristol.scn "Bristol Beaufighter"
+models/aircrafts/do.scn "Dornier Do 217"
+models/aircrafts/he-111.scn "Heinkel He 111"
+models/aircrafts/ju-87.scn "Junkers Ju 87"
+models/aircrafts/ju88.scn "Junkers Ju 88G-1"
+models/aircrafts/spitfire.scn "Supermarine Spitfire"
+models/aircrafts/typhoon.scn "Hawker Typhoon"
+models/aircrafts/me262.scn "Messerschmitt Me 262"
+models/aircrafts/mosquito.scn "Mosquito B.Mk IV Serie II"
+models/aircrafts/bf-110.scn "Messerschmitt Bf 110"
+models/aircrafts/mk1.scn "Hawker Hurricane Mk I"
+models/aircrafts/mk8.scn "Gloster Meteor F.Mk 8"
+models/aircrafts/b-17.scn "Boeing B-17"
+models/aircrafts/f-80.scn "F-80 Shooting Star"
+models/aircrafts/P-39.scn "P-39 Airacobra"
+models/aircrafts/v1.scn "Fi 103R"
+models/aircrafts/p-61.scn "Northrop P-61B"
+models/aircrafts/b-25.scn "North American B-25H Mitchell"
+models/aircrafts/arado.scn "Ar E.555-1"
+models/ships/Bismarck.scn Bismarck
+models/ships/HMSsmall.scn HMS
+models/ships/lst_eng.scn "British transport"
+models/ships/lst_ger.scn "German transport"
+models/ships/u-47.scn U-47
+models/ships/z20.scn Z20

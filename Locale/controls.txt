@@ -1,0 +1,35 @@
+down "Pitch Down"
+up "Pitch Up"
+left "Bank Left"
+right "Bank Right"
+yawleft "Yaw Left"
+yawright "Yaw Right"
+throtInc "Throttle Up"
+throtDec "Throttle Down"
+gears Gears
+primary "Fire Primary"
+secondary "Fire Secondary"
+weapon "Switch Weapon"
+weapon1 Bombs
+weapon2 Rockets
+weapon3 Torpedoes
+avionics Avionics
+radar Radar
+bombview "Bomb View"
+camera "Switch camera"
+camera1 "Camera 1"
+camera2 "Camera 2"
+camera3 "Camera 3"
+camera4 "Camera 4"
+camera5 "Camera 5"
+camera6 "Camera 6"
+camera7 "Camera 7"
+camera8 "Camera 8"
+bonus "Bonus Mode"
+maneuver "Manoeuvre Mode"
+zoom Zoom
+bonusweapon "Bonus Weapon"
+bonusup "Bonus Pursuit"
+bonusdown "Bonus Loop"
+bonusright "Bonus Immelman"
+bonusthrottle "Bonus Acceleration"

@@ -1,0 +1,282 @@
+ui {
+  StartMenu {
+    audio.psd {
+      "HARDWARE ACCELERATION" "HARDWARE ACCELERATION"
+      On On
+      Off Off
+      "AUDIO QUALITY" "AUDIO QUALITY"
+      Low Low
+      High High
+      "MAX. NUMBER OF VOICES" "MAX. NUMBER OF VOICES"
+      "MASTER VOLUME" "MASTER VOLUME"
+      "SPEECH VOLUME" "SPEECH VOLUME"
+      "MUSIC VOLUME" "MUSIC VOLUME"
+      "ENGINE VOLUME" "ENGINE VOLUME"
+      "EFFECTS VOLUME" "EFFECTS VOLUME"
+      AUDIO AUDIO
+    }
+    brief.psd {
+      Briefing BRIEFING
+      BACK BACK
+      NEXT NEXT
+    }
+    campaign.psd {
+      NEW NEW
+      DELETE DELETE
+      BRIEFING BRIEFING
+      Diary Diary
+      NEXT NEXT
+      BACK BACK
+    }
+    common_options.psd {
+      Options OPTIONS
+      VIDEO VIDEO
+      AUDIO AUDIO
+      CONTROLS CONTROLS
+      APPLY APPLY
+      CANCEL CANCEL
+    }
+    controls.psd {
+      ACTION ACTION
+      KEYBOARD ""
+      JOYSTICK ""
+      CONTROLS CONTROLS
+      "MOUSE SENSITIVITY" "MOUSE SENSITIVITY"
+      "KEYBOARD SENSITIVITY" "KEYBOARD SENSITIVITY"
+      MOUSE/JOYSTICK MOUSE/JOYSTICK
+      "MOUSE INVERSE" "MOUSE INVERSE"
+      On On
+      Off Off
+      Low Low
+      High High
+    }
+    credits.psd {
+      Credits CREDITS
+      BACK BACK
+      QUIT QUIT
+      text1 "MAUS Software
+
+Leading programmer
+IGOR BOZHKO
+
+Leading artist
+JURI PAZINICH
+
+Programming
+VYACHESLAV KUDRYA
+ANDREY OSTROVERKHOV
+
+3D Modelling
+DMITRY KLEVTSOV
+OLEG SHIKARYOV
+ALEXANDR PALAGUTA
+MAXIM MATSYUK
+ANDREY SAMOYLOV
+
+Interface
+JURI PAZINICH
+
+Textures
+JANA KISELYOVA
+DMITRY KLEVTSOV
+OLEG SHINKARYOV
+MAXIM MATSYUK
+
+Landscapes
+JANA KISELYOVA
+
+Intro
+JURI PAZINICH
+OLEG SHINKARYOV
+
+Music
+DIRK HINKELMANN-GRUEBER
+EVGENIY MILITSA
+RUSSIAN STATE ARCHIVE OF PHONO DOCUMENTS
+
+Audio
+DIRK HINKELMANN-GRUEBER
+STEPHEN ROBERT TAYLOR
+ALEXEY GRITSENKO
+
+Texts
+EKATERINA YAKOVENKO
+ANDREY OSTROVERKHOV
+
+Consultant
+MICHAEL KOBETS
+
+3D Testing
+VYACHESLAV KUDRYA
+
+Testing
+KIRILL GALANOV
+EKATERINA YAKOVENKO
+ALEXEY GRITSENKO
+
+Product management
+ILLYA TKACHUK
+
+Strategy First
+
+President
+DON MCFATRIDGE
+
+Senior V.P.
+BRIAN CLARKE
+
+V.P. Product Development
+RICHARD THERRIEN
+
+V.P. Systems
+DAVE HILL
+
+Business Development Manager
+PRO SOTOS
+
+Executive Producer
+JAY PODILCHUK
+
+Associate Producer / Localization Manager
+BROCK BEAUBIEN
+
+Technical Coordinator / Associate Producer
+DANNY KODAIS
+
+Manufacturing Coordinator / Product Manager
+EMAN WALL
+
+Graphic Design
+LES PARSONS
+
+Tech Support
+JULIAN HERTEN-GREAVEN
+
+Marketing Coordinator
+JESSICA HAWKER"
+    }
+    debriefing.psd {
+      Score Score
+      Bonuses Bonuses
+      CANCEL CANCEL
+      RESTART RESTART
+      CONTINUE CONTINUE
+      MENU MENU
+      QUIT QUIT
+    }
+    gallery.psd {
+      BACK BACK
+      QUIT QUIT
+    }
+    game.psd {
+      GAME GAME
+      DIFFICULTY DIFFICULTY
+      AIM AIMS
+      "AUTO AIM" "AUTO AIM"
+      "RADAR DISTANCE" "RADAR DISTANCE"
+      CONSOLE CONSOLE
+      Easy Easy
+      Normal Normal
+      Hard Hard
+      On On
+      Off Off
+      Light Light
+      Full Full
+      Precise Precise
+      Rough Rough
+      1km "1 km"
+      3km "3 km"
+      Low Low
+      High High
+    }
+    main.psd {
+      CAMPAIGN CAMPAIGN
+      MISSIONS MISSIONS
+      OPTIONS OPTIONS
+      GALLERY GALLERY
+      CREDITS CREDITS
+      PILOTS PILOTS
+      QUIT QUIT
+    }
+    missions.psd {
+      BRIEFING BRIEFING
+      Diary MISSIONS
+      NEXT NEXT
+      BACK BACK
+    }
+    options.psd {
+      GAME GAME
+      VIDEO VIDEO
+      AUDIO AUDIO
+      CONTROLS CONTROLS
+      BACK BACK
+      APPLY APPLY
+      QUIT QUIT
+    }
+    plane.psd {
+      BACK BACK
+      START START
+      param_names "Power
+Altitude
+Cruise Velocity
+Max Velocity
+
+Life
+
+Bombs
+Rockets
+Torpedoes"
+    }
+    popup_campaign_name.psd {
+      "Enter your name:" "Enter campaign name:"
+      CANCEL CANCEL
+      OK OK
+    }
+    popup_name.psd {
+      "Enter your name:" "Enter your name:"
+      "Select your level:" "Select your level:"
+      CANCEL CANCEL
+      OK OK
+    }
+    popup_query.psd {
+      "Are you sure?" "Are you sure?"
+      NO NO
+      YES YES
+    }
+    pilot.psd {
+      NEW NEW
+      DELETE DELETE
+      PLAY PLAY
+      QUIT QUIT
+      s_names "Level
+Scores
+Aircrafts
+Ships
+Objects
+Missions"
+      "HI SCORE:" "HI SCORE:"
+      "PILOT STATISTICS" "PILOT STATISTICS"
+    }
+    video.psd {
+      MODES_QUALITY_CHANGING "MODES & QUALITY CHANGING
+(Set preferred values)"
+      "VIDEO MODE" "VIDEO MODE"
+      "ANTIALIASING MODE" "ANTIALIASING MODE"
+      "TEXTURE DETAILS" "TEXTURE DETAILS"
+      "TEXTURE COMPRESSION" "TEXTURE COMPRESSION"
+      "GEOMETRY DETAILS" "GEOMETRY DETAILS"
+      "TERRAIN VISIBILITY" "TERRAIN VISIBILITY"
+      "TERRAIN DETAIL TEXTURES" "TERRAIN DETAIL TEXTURES"
+      On On
+      Off Off
+      Weak Weak
+      Rich Rich
+      Medium Medium
+      Near Near
+      Far Far
+      None None
+      VIDEO VIDEO
+      16Bit "16 Bit"
+    }
+  }
+}

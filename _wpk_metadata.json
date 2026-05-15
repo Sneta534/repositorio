@@ -1,0 +1,99 @@
+{
+  "header_extra_hex": "576869726c77696e6420322e31205061636b616765202020",
+  "entry_order": [
+    3,
+    7,
+    11,
+    0,
+    2,
+    4,
+    6,
+    8,
+    10,
+    1,
+    5,
+    9
+  ],
+  "files": [
+    {
+      "fileno": 4,
+      "filename": "Locale\\assets.txt",
+      "unk1": 3331581696,
+      "unk2": 29739224,
+      "original_offset": 9816
+    },
+    {
+      "fileno": 5,
+      "filename": "Locale\\controls.txt",
+      "unk1": 3331581696,
+      "unk2": 29739224,
+      "original_offset": 11080
+    },
+    {
+      "fileno": 6,
+      "filename": "Locale\\gallery.txt",
+      "unk1": 2132530944,
+      "unk2": 29762186,
+      "original_offset": 11824
+    },
+    {
+      "fileno": 7,
+      "filename": "Locale\\gameui.txt",
+      "unk1": 3331581696,
+      "unk2": 29739224,
+      "original_offset": 20160
+    },
+    {
+      "fileno": 2,
+      "filename": "Locale\\mausonlytxt",
+      "unk1": 3331581696,
+      "unk2": 29739224,
+      "original_offset": 60
+    },
+    {
+      "fileno": 8,
+      "filename": "Locale\\missions2.txt",
+      "unk1": 2132530944,
+      "unk2": 29762186,
+      "original_offset": 20436
+    },
+    {
+      "fileno": 9,
+      "filename": "Locale\\misstrings.txt",
+      "unk1": 315922432,
+      "unk2": 29764583,
+      "original_offset": 46428
+    },
+    {
+      "fileno": 3,
+      "filename": "Locale\\psd_text.txt",
+      "unk1": 1965857024,
+      "unk2": 29764581,
+      "original_offset": 4724
+    },
+    {
+      "fileno": 10,
+      "filename": "Locale\\settings.txt",
+      "unk1": 3331581696,
+      "unk2": 29739224,
+      "original_offset": 59460
+    },
+    {
+      "fileno": 11,
+      "filename": "Locale\\strings.txt",
+      "unk1": 3331581696,
+      "unk2": 29739224,
+      "original_offset": 59476
+    },
+    {
+      "fileno": 1,
+      "filename": "Locale\\video.txt",
+      "unk1": 2987253760,
+      "unk2": 29760190,
+      "original_offset": 32
+    }
+  ],
+  "name_table_unk1": 11557216,
+  "name_table_unk2": 4233354,
+  "name_table_original_offset": 61288
+}

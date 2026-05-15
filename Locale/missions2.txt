@@ -1,0 +1,132 @@
+mission0 {
+  Weather "Segundaa"
+  Diary "Today we have the first training flight. Hope I put up a good show..."
+}
+mission1 {
+  Title Supervision
+  ShortTitle "Training flight"
+  Weather "Wednesday, 17.07.1940"
+  Briefing "Objective\r\nFirst training flight with reconnaissance purposes. Read and follow the captions on the screen.\r\n\r\nCurrent situation\r\nAfter a complete study of the possibilities of an invasion of Britain, Hitler made the official announcement on July 16th 1940 that Germany would make an invasion of Britain through his Directive No.16 thus endorsing his formal approval of such an invasion.\r\nThe bulk of attacks were in the south where the Luftwaffe went on probing attacks on British shipping in the English Channel and in the outer Thames Estuary."
+  Objective "First training flight with reconnaissance purposes. Read and follow the captions on the screen"
+  Diary "I’m finally getting accustom to my new life here in England. Of, course, I miss Canada very much and hope to get home soon. If only this damned war would end! There are some advantaged of being here, I’ve meet a lot of new friends. All the “Chaps” are very friendly and funny. I’m getting to know them and expect we will be getting along well. There is a big age difference between the guys, but we all have a lot in common, I think all pilots do. Yesterday we played a trick on our commander – We told his girlfriend that each tab on his chest represents one of his children. He was really angry... Actually, he almost killed us! We'd better be more prudent next time...\r\n\r\nBy all accounts we'll deploy soon somewhere in the Dovre region... It's in the eastern part of England..."
+}
+mission2 {
+  Title "Protect the radar stations"
+  ShortTitle Dover
+  Weather "Thursday, 01.08.1940"
+  Briefing "Objective\r\n1) Detect and meet German aircraft near Dovre in the Southern direction\r\n2) Defend the radar stations against Luftwaffe bombers attacks. \r\n3) Destroy all bombers, limiting the amount of damage to the radar stations.\r\n\r\nCurrent situation\r\nMost of the German attacks in the Channel were on the merchant convoys conveying much needed coal, raw materials, machinery and foodstuffs to Britain. By sinking these merchant ships Germany would deny the British people of the various commodities required just for their sheer existence. At the same time, by attacking these convoys, it was hoped that it would draw out the British fighters from their bases. This way the Luftwaffe could analyze the strength of the RAF, determine the speed and efficiency that the RAF could deploy its squadrons, in other words, Germany was testing the efficiency and strength of the Royal Air Force and it was hoped that the Luftwaffe would destroy the RAF in the air."
+  Objective "1) Detect and meet German aircraft near Dovre in the Southern direction\r\n2) Defend the radar stations against Luftwaffe bombers attacks. \r\n3) Destroy all bombers, limiting the amount of damage to the radar stations."
+  Diary "The battle was just wonderful! Damned Nazi conspired to destroy our radar installations to take away our strategic advantage! Their aircraft attacked as if they were a pack of hungry jackals! But we knew what side of our bread was buttered! I made several tactical manoeuvres, analyzing the situation and then came to grips with the enemy. I gave them no chances. So they had nothing to do, but to become a cropper. It is pity that my beloved Mary is so long away from here and can't witness my exploits...\r\nThe sky of Dover is now absolutely free from German aircraft. I train every day and I feel that my skills are on the acme of perfection. I am one with my plane! Beware, Nazi, I'm coming!\r\n\r\nThe northern parts of England also need defence. Our next destination is Dunkirk..."
+}
+mission3 {
+  Title "Defence of armament installations"
+  ShortTitle Dunkirk
+  Weather "Tuesday, 13.08.1940, \"Eagle Day\""
+  Briefing "Objective\r\n1) Meet German aircraft in the Eastern direction\r\n2) Defend armament installations against Luftwaffe bombers attacks. \r\n3) Destroy all bombers, limiting the amount of damage to the armament installations.\r\n\r\nCurrent situation\r\nAttacks on the British convoys continue. German aircrafts attack the radar stations at Dover, Dunkirk, Rye, Pevensye. One hundred Ju 88s, 120 Bf 110s, and 25 Bf 109s are attacking ships in Portsmouth Harbor, and are knocking the Ventnor radar stations out of action.\r\n\r\nEarly Tuesday morning the German bombers began to take off from various airfields and the first major assault on Britain was about to begin."
+  Objective "1) Meet German aircraft in the Eastern direction\r\n2) Defend armament installations against Luftwaffe bombers attacks. \r\n3) Destroy all bombers, limiting the amount of damage to the armament installations."
+  Diary "Today we defended our armament installation against bomber attacks. The Luftwaffe pilots were just brilliant and we should acknowledge them for this. They surrounded our installations and started a skirmish! It was really terrifying. But nevertheless we managed to ward off all their attacks. After defending our installations we received the designation of being ‘invincible’ pilots. Of course, all the guys were just wonderful! I'm lucky to have such experienced colleagues, whom I can rely upon during these battles!\r\nToday we're planning to celebrate our little victory somehow. One of our guys has got a box of real Scotch! Hope nothing will prevent us from our little celebration."
+}
+missionA {
+  Title "BONUS. Night assault on Berlin"
+  ShortTitle "BONUS - Berlin"
+  Weather "Sunday, 25.08.1940"
+  Briefing "Objective:\r\n1) Spot the base North-West of Berlin\r\n2) Attack the oil base, military installations and airport and destroy them.\r\n\r\nCurrent situation\r\nGerman bombs fell on central London for the first time. The following night, 43 aircraft from Bomber Command retaliate by bombing Berlin."
+  Objective "1) Spot the base North-West of Berlin\r\n2) Attack the oil base, military installations and airport and destroy them.\r"
+  Diary "Today was our day of revenge. We had to make a riposte... and we made it! I hope this night will sink into Nazi minds for a very long time! We gathered our best air forces and attacked Berlin! It was my first battle near a civilian population. Commander warned us, that we would bomb solely military installations, though I had a deep concern about all this... I don't want to suffer from pangs of conscience for the victims among the civilian population.\r\n\r\nWe move to London tomorrow. I’m sure the Nazis will try to retaliate..."
+}
+mission4a {
+  Title "Defence of London airspace"
+  ShortTitle "London airspace"
+  Weather "Sunday, 15.09.1940"
+  Briefing "Objective\r\n1) Meet German aircraft in the Eastern direction, ca. 50 km from London\r\n2) Defend armament installations against Luftwaffe bombers attacks. \r\n3) Destroy all bombers, limiting the amount of damage to the armament installations.\r\n\r\nCurrent situation \r\nMassive attacks on London by huge formations of German aircraft. \r\nThe first bombing attacks on the city of London started in the third phase of the battle. Attacks by massed formations of bombers never before seen in the skies escorted by twice as many fighters brought the war now closer than ever to the residents of the great capital. Heavy bomb concentrations on the industrial factories and the dock areas of London's \"East End\" turned the eastern entry to the city into a huge fireball on both sides of the river Thames."
+  Objective "1) Meet German aircraft in the Eastern direction, ca. 50 km from London\r\n2) Defend armament installations against Luftwaffe bombers attacks. \r\n3) Destroy all bombers, limiting the amount of damage to the armament installations."
+  Diary "Yep, their air force is really strong! We felt it today defending our airport. Actually, the commander said, the Luftwaffe would send it’s most experienced and revere pilots to the offensive. After that I realized, I can't wait to meet them face to face! I wanted to show them we were the best. Well, I was pretty lucky in that battle. We won, but not without heavy casualties... By the way, flying over the airport I realised something very funny. I was afraid of heights and suffered from the altitude illness in my childhood. Me and my friends used to walk near the airport and looked up at taking-off planes and thought: \"How mad they are getting into this terrifying thing of freewill!\". And now I'm flying over the airport myself, and I like it! I love it!\r\n\r\nOur crew was appointed to bomb northern Germany. It will be either Hamburg or Wilhelmshaven..."
+}
+mission4b {
+  Title "Defence of London airport"
+  ShortTitle "London airport"
+  Weather "Sunday, 15.09.1940"
+  Briefing "Objective\r\n1) Intercept German aircraft in the South-Eastern direction, about 10 km from London\r\n2) Defend the airport against Luftwaffe bombers attacks. \r\n3) Destroy as many bombers as possible, limiting the amount of damage to the airport.\r\n\r\nCurrent situation \r\nMassive attacks on London by huge formations of German aircraft. \r\nThe first bombing attacks on the city of London started in the third phase of the battle. Attacks by massed formations of bombers never before seen in the skies escorted by twice as many fighters brought the war now closer than ever to the residents of the great capital. Heavy bomb concentrations of the industrial factories and the dock areas of London's \"East End\" turned the eastern entry to the city into a huge fireball on both sides of the river Thames. Special attacks where undertook on British bases: installations and airports"
+  Objective "Objective\r\n1) Intercept German aircraft in the South-Eastern direction, about 10 km from London\r\n2) Defend the airport against Luftwaffe bombers attacks. \r\n3) Destroy as many bombers as possible, limiting the amount of damage to the airport."
+  Diary "Yep, their air force is really strong! We felt it today defending our airport. Actually, the commander said, the Luftwaffe would send it’s most experienced and revere pilots to the offensive. After that I realized, I can't wait to meet them face to face! I wanted to show them we were the best. Well, I was pretty lucky in that battle. We won, but not without heavy casualties... By the way, flying over the airport I realised something very funny. I was afraid of heights and suffered from the altitude illness in my childhood. Me and my friends used to walk near the airport and looked up at taking-off planes and thought: \"How mad they are getting into this terrifying thing of freewill!\". And now I'm flying over the airport myself, and I like it! I love it!\r\n\r\nOur crew was appointed to bomb northern Germany. It will be either Hamburg or Wilhelmshaven..."
+}
+mission5 {
+  Title "Bombing raid on Wilhelmshaven"
+  ShortTitle Wilhelmshaven
+  Weather "Tuesday, 08.07.1941"
+  Briefing "Objective\r\n1) Your bomber squadron must attacks Wilhelmshaven\r\n2) As a gunner in your bomber crew you must defend your aircraft from enemy fighters. You are not a pilot. You will not have control of the bomber.\r\n3) Drop as many bombs as possible to destroy the harbour.\r\n\r\nCurrent situation \r\nRAF’s 90th squadron receives the first Boeing B-17 Flying Fortress aircraft from America. Its role is high-altitude day time bombing. The first mission should be Wilhelmshaven, German marine base station."
+  Objective "1) Your bomber squadron must attacks Wilhelmshaven\r\n2) As a gunner in your bomber crew you must defend your aircraft from enemy fighters. You are not a pilot. You will not have control of the bomber.\r\n3) Drop as many bombs as possible to destroy the harbour."
+  Diary "The marine base was heavily fortified. We had a very hard time destroying the installation. I was surprised; because I was sure there wouldn't be any difficulties destroying it. After the bombing the Luftwaffe aircrafts attacked us, like a swarm of bees! On top of that, they had antiaircraft emplacements all around the base. They lit up the sky in the biggest fireworks display I have ever seen. It was spectacular and absolutely terrifying at the same time. I had to do my best and to use my skill to survive in that flying death-trap... Fortunately, we flew high enough to avoid most of the flak and anti-aircraft fire. I defended the plane valiantly and shot down many enemy planes. You would have been proud of me!\r\n\r\nThe commander said I was considered as a possible candidate to skyjack the new top secret German plane..."
+}
+mission6 {
+  Title "Hi-jacking of Me262"
+  ShortTitle Hi-jacking
+  Weather "Saturday, 18.07.1942"
+  Briefing "Objective\r\n1) Steal the Me262 from the test airfield in Augsburg\r\n2) Destroy the enemy bases\r\n3) Reach the west European coast near Calais and destroy all the enemy bombers\r\n4) Defend the factory near London\r\n5) Land the plane at the British air-force base\r\n\r\nCurrent situation \r\nThe Messerschmidt 262 \"Schwalbe” is a jet plane with the top-speed of 870 km/h and a ceiling height of 11000m. The Me 262 is equipped with four 30 mm cannons making it strongest fighter in the war! The project started in 1939 and was not complete till now. July 18th 1942, the aircraft is ready for its first test flight at a test facility near Augsburg."
+  Objective "1) Steal the Me262 from the test airfield in Augsburg\r\n2) Destroy the enemy bases\r\n3) Reach the west European coast near Calais and destroy all the enemy bombers\r\n4) Defend the factory near London\r\n5) Land the plane at the British air-force base"
+  Diary "Hi-jacking a plane is a lot easier than it sounds.  The hardest part was penetrating the enemy’s base. However, we had the cover of night to help us get through the Nazi security. The area was completely dark except for the landing strip which was completely lit up. We had to be extremely cautious not to draw attention of the guards once we reach the landing strip. The Me 262 was ready and waiting for me to take control. I familiarized myself with the controls and immediately realise we where made for each other. The plane was really powerful and... wild, if I may say so. I got into a couple of scuffles, but on the whole the mission was successfully accomplished. \r\n\r\nWe are going to celebrate our success tonight with a few drinks with our allies. Hopefully it will be a quiet evening so we can enjoy our time together."
+}
+missionB {
+  Title "BONUS. Interception of V1 rockets"
+  ShortTitle "BONUS - V1 rockets"
+  Weather "Thursday, 10.09.1942"
+  Briefing "1) Use your radar to intercept the V1 rockets headed towards London.\r\n2) Destroy as many of them as possible.\r\n\r\nCurrent situation\r\nThe development of V1 rocket - \" Vergeltungswaffe \" (Vengeance Weapon) in Peenemunde brought the first results: the trial start of V1. The next trial is planned to hit London..."
+  Objective "1) Use your radar to intercept the V1 rockets headed towards London.\r\n2) Destroy as many of them as possible.\r"
+  Diary "I have never seen so many rockets before. They where fairly easy to shoot down Thank God they couldn’t shoot back at me.\r\n\r\nThe Commander told me the Germans are working on a new type of rocket called the V2. If it’s as good as the V1 we have nothing to fear."
+}
+mission7 {
+  Title "Bombing raid on Norway"
+  ShortTitle "V2 launching pads"
+  Weather "Tuesday, 23.11.1943"
+  Briefing "Objective\r\n1) Find the V2 rockets.\r\n2) Destroy them before they can launch. You only have 8 minutes!\r\n\r\nAlly reconnaissance has spotted the Germans building V2 rockets at the Norsk plant near Rjukan in German occupied Norway. They are producing the rockets inside tunnels in the mountains and then launching them from heavily camouflaged platforms outside. It will be very hard to locate all the rockets in the area.\r"
+  Objective "1) Find the V2 rockets.\r\n2) Destroy them before they can launch. You only have 8 minutes!"
+  Diary "There were only three V2 rockets, ready for launch. They where heavily defended by flak and gun emplacements. Of course, I was ready to take on the tasks. I've been training for action like this all of my life. This mission really put me to the test. My plane was badly damaged and the cockpit was about to fall apart! I was starting to think I wasn’t going to make it out alive. But my experience and my luck helped me once again...\r\nThe blast was spectacular to say the least. Its radiance adorned the horizon and made quiet a sceptical throughout the region. I held my plane together and was able to land the plane without incident. I did my duty with total absorption and was rewarded with the admiration of my colleagues. It was an experience I will never forget. Who knows, maybe I'll receive a decoration for this mission... Maybe, in the future..."
+}
+mission8a {
+  Title "Assault on a German train"
+  ShortTitle "German train"
+  Weather "Wednesday, 12.07.1944"
+  Briefing "Objective\r\n1) A German train with works of art is headed to Germany from Paris. Spot the train along the \"Paris-Reims\" route.\r\n2) Find a way to create an obstacle ahead the train in order to stop it\r\n3) Don't blow up the train - it carries valuable masterpieces!\r\n\r\nCurrent situation\r\nParis is close to being liberated. Allied troops are in France and are gradually getting closer to Paris. Some German officers are trying to steal priceless works of arts from the Louvre and other museum and send them to Germany. The treasures have been thrown into a train which is headed to Berlin. It must be stopped!"
+  Objective "1) A German train with works of art is headed to Germany from Paris. Spot the train along the \"Paris-Reims\" route.\r\n2) Find a way to create an obstacle ahead the train in order to stop it\r\n3) Don't blow up the train - it carries valuable masterpieces!"
+  Diary "The mission was really tricky. To bomb a train wouldn't be a problem for me. I train to bomb different objects every day. But I could not simply bomb this train to stop it as the train was of a great importance - in fact; it carried rolling stock full of ancient treasures. So, I had to stop it without damaging the train or its cargo. Nevertheless, I managed to do it. The Louver treasures are safe now. I feel as if I've saved the world! Well, at least I've saved it from cultural degradation. I wonder if the Mona Lisa picture was there... Our teacher told us that it was an autobiographical picture and that Leonardo had actually painted himself. All geniuses are definitely strange people...\r\n\r\nI am headed to Norway again. I hope there is nothing eventful waiting for me there, I could use a break after all this action."
+}
+mission8b {
+  Title "Cannon \"Dora\" destruction"
+  ShortTitle "Dora destruction"
+  Weather "Tuesday, 26.09.1944"
+  Briefing "Objective\r\n1) Spot the train with the gun on the way from Sevilla to Cadiz\r\n2) Destroy the train with the gun and the gun itself.\r\n\r\nCurrent situation\r\nThe cannon \"Dora\" is the largest cannon in the world. With its calibre 80 cm, Length of tube about 32 m and range up to 48 km it is a very threatening weapon. It operates from railroad and needs a large assistant crew, because of its size, weight (1345 tons) and complexity. It takes 25 trainloads of equipment, 2000 men and up to six weeks to assemble."
+  Objective "1) Spot the train with the gun on the way from Sevilla to Cadiz\r\n2) Destroy the train with the gun and the gun itself."
+  Diary "I was lucky the mission ended up being easy. There where a few Bf110 circling around, but they where no match for me. I shot them down and watched them burn. \r\nWhen I finally reached the gun it was well defended. Anti-aircraft guns were everywhere along the railway and even on the train itself! The enemy was on high alert and put on a good show in trying to stop me.\r\nWhen the super gun was destroyed, I made one more circle around it to admire the wreckage of the once proud Nazi weapon. I returned to base very tired, but the mission was complete so I felt fulfilled."
+}
+mission9 {
+  Title "Assault on \"Tirpitz\""
+  ShortTitle Tirpitz
+  Weather "Sunday, 12.11.1944"
+  Briefing "Objective\r\n1) Spot Tirpitz in Altenfjord or Kaa fjord\r\n2) Destroy the Tripitz.\r\n\r\nCurrent situation\r\nThe German battleship Tirpitz (Bismarck Class), launched in 1941, is fully loaded weighed approximately 50,000 ton's and had a crew of 2340 men. Her overall length was 251 metres with a beam of 36 metres and a draught of 9 metres. Her armament consists of four 15 inch twin mounted turrets, six 5.9 inch twin mounted turrets, eight 4.1 inch twin mounted anti-aircraft guns and twelve single mounted anti-aircraft cannons."
+  Objective "1) Spot Tirpitz in Altenfjord or Kaa fjord\r\n2) Destroy the Tripitz."
+  Diary "It was the largest battle ship I've ever seen. Though this ship had been built to repel a possible allied invasion, it never actually came into contact with Allied shipping. Nevertheless it was really powerful and terrifying. We diverted our best aircraft forces to put it out of commission. We dropped several heavy bombs, causing massive damage to the ship. It listed heavily, suffered an ammunition explosion and rolled over. I will admit it was a pity to sink such a wonderful ship!\r\nIt's interesting... Sailors prefer to call their ships \"she\" instead of \"it\", as if these ships are their beautiful ladies. Well, in this case an old salt would probably say: \"Dangerous lady Tirpitz had a very effective armor, besides, she was really well defended by the Luftwaffe aircraft. Though, thanks to our well-thought operation, this \"nice\" lady was pensioned off\"."
+}
+missionC {
+  Title "BONUS. Assault on Hitler"
+  ShortTitle "BONUS - Hitler Limousine"
+  Weather "Friday, 23.03.1945"
+  Briefing "Objective\r\n1) You are in the German Alps near Eagle's Nest \r\n2) Locate Hitler’s limousine.\r\n3) Destroy Hitler’s limousine. You should destroy all vehicles in order to hit the required target. Time is limited - Hitler’s limousine can hide itself in a tunnel!\r\n\r\nCurrent situation \r\nThe war comes to an end, but we expect a lot more casualties. The allied command decided to make a brutal assault on Hitler’s residences Eagle's Nest (Adlerhorst) on Koenigssee in Bayern."
+  Objective "1) You are in the German Alps near Eagle's Nest \r\n2) Locate Hitler’s limousine.\r\n3) Destroy Hitler’s limousine. You should destroy all vehicles in order to hit the required target. Time is limited - Hitler’s limousine can hide itself in a tunnel!"
+  Diary "Ha! When I tell my grandchildren that I've bombed Hitler's limousine, they won't believe me, but it's true! Though I still find it hard to believe myself.\r\nThe mission was very risky as I was behind enemy lines. It was well worth the risk as the mission was to kill the Fuhrer, the head of the Nazi nightmare. I just realized that the man in that limousine was responsible for all the victims, for destroyed towns and even countries, for broken lives of entire nations! He was a concentrated evil, and I felt so angry, that I was ready to eliminate him even if I would have to crash my own aircraft into his limousine, like a Japanese kamikaze! Unfortunately, my anger affected my judgment and I almost made a fatal mistake and was close to being shot down by his defences. I got lucky, the flak almost hit me. I woke up after that and completed the mission."
+}
+mission10 {
+  Title "Assault on Berlin"
+  ShortTitle "Final Battle - Berlin"
+  Weather "Sunday, 29.04.1945"
+  Briefing "Objective\r\n1) Protect our convoy of bombers.\r\n2) Destroy the enemies newest bombers \"Arado\"\r\n3) Spot and destroy all of the Fuhrer's hidden bunkers.\r\n\r\nCurrent situation\r\nThe allies close in on Berlin... The war comes to an end. Our unit is taking part in the final assault on Berlin. The early morning is the beginning of air attack on Berlin - as a preparation to the last assault."
+  Objective "1) Protect our convoy of bombers.\r\n2) Destroy the enemies newest bombers \"Arado\"\r\n3) Spot and destroy all of the Fuhrer's hidden bunkers."
+  Diary "It’s all over for now. Of course, there are still a lot of things to mop-up. The Nazis poisoned many countries with their sick ideas and philosophies. There are many of their installations left over all over Europe. But still their main citadel - Reichstag - is destroyed! Hitler is dead, and Germany is under control of our alliance. \r\nI don't think that the rest of the Nazis will survive without their leader. I've heard of thousands of them surrendering! \r\nI hope that I'll come back to my sweet home - Canada soon. Kiss my beloved Marry and drink a good glass of beer with my old friends! It’s easier to talk about this now because the war is nearly finished."
+}
+missionD {
+  Title "BONUS. Arado - the secret plane"
+  ShortTitle "BONUS - Arado"
+  Weather "Thursday, 10.05.1945"
+  Briefing "Objective\r\nDestroy all ships and U-Boats\r\n\r\nCurrent situation\r\nThe allies are in Berlin... The war is finished. Our unit, using trophy aircraft, should destroy the remainder of enemy ships and U-Boots on the sea."
+  Objective "Destroy all warships"
+  Diary "It’s all over for now. Of course, there are still a lot of things to mop-up. The Nazis poisoned many countries with their sick ideas and philosophies. There are many of their installations left all over Europe. But still their main citadel - Reichstag - is destroyed! Hitler is dead, and Germany is under control of our alliance. \r\nI don't think that the rest of the Nazis will survive without their leader. I've heard of thousands of them surrendering! \r\nI hope that I'll come back to my sweet home - Canada soon. Kiss my beloved Marry and drink a good glass of beer with my old friends! It’s easier to talk about this now because the war is nearly finished."
+}

@@ -1,0 +1,14 @@
+Rocket ROCK
+Bomb BOMB
+Torpedo TORP
+Status "Amo[%s]:%3d  Throttle: %d%%  Speed: %4d km/h  Altitude: %4d m"
+life "Life: %d%%"
+GEARS Gears
+KM/H KM/H
+ALT ALT
+ON ON
+OFF OFF
+supergun "Super bullets"
+superarm "Super weapon"
+maneuver Manoeuvres
+self-guided Self-guided

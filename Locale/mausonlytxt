@@ -1,0 +1,168 @@
+ui {
+  StartMenu {
+    audio.psd {
+      "HARDWARE ACCELERATION" "HARDWARE ACCELERATION"
+      On On
+      Off Off
+      "AUDIO QUALITY" "AUDIO QUALITY"
+      Low Low
+      High High
+      "MAX. NUMBER OF VOICES" "MAX. NUMBER OF VOICES"
+      "MASTER VOLUME" "MASTER VOLUME"
+      "SPEECH VOLUME" "SPEECH VOLUME"
+      "MUSIC VOLUME" "MUSIC VOLUME"
+      "ENGINE VOLUME" "ENGINE VOLUME"
+      "EFFECTS VOLUME" "EFFECTS VOLUME"
+      AUDIO AUDIO
+    }
+    brief.psd {
+      Briefing BRIEFING
+      BACK BACK
+      NEXT NEXT
+    }
+    campaign.psd {
+      NEW NEW
+      DELETE DELETE
+      BRIEFING BRIEFING
+      Diary Diary
+      NEXT NEXT
+      BACK BACK
+    }
+    common_options.psd {
+      Options OPTIONS
+      VIDEO VIDEO
+      AUDIO AUDIO
+      CONTROLS CONTROLS
+      APPLY APPLY
+      CANCEL CANCEL
+    }
+    controls.psd {
+      ACTION ACTION
+      KEYBOARD ""
+      JOYSTICK ""
+      CONTROLS CONTROLS
+      "MOUSE SENSITIVITY" "MOUSE SENSITIVITY"
+      "KEYBOARD SENSITIVITY" "KEYBOARD SENSITIVITY"
+      MOUSE/JOYSTICK MOUSE/JOYSTICK
+      "MOUSE INVERSE" "MOUSE INVERSE"
+      On On
+      Off Off
+      Low Low
+      High High
+    }
+    credits.psd {
+      Credits CREDITS
+      BACK BACK
+      QUIT QUIT
+      text1 "Leading programmer\r\nIGOR BOZHKO\r\n\r\nLeading artist\r\nJURI PAZINICH\r\n\r\nProgramming\r\nVYACHESLAV KUDRYA\r\nANDREY OSTROVERKHOV\r\n\r\n3D Modelling\r\nDMITRY KLEVTSOV\r\nOLEG SHIKARYOV\r\nALEXANDR PALAGUTA\r\nMAXIM MATSYUK\r\nANDREY SAMOYLOV\r\n\r\nInterface\r\nJURI PAZINICH\r\n\r\nTextures\r\nJANA KISELYOVA\r\nDMITRY KLEVTSOV\r\nOLEG SHINKARYOV\r\nMAXIM MATSYUK\r\n\r\nLandscapes\r\nJANA KISELYOVA\r\n\r\nIntro\r\nJURI PAZINICH\r\nOLEG SHINKARYOV\r\n\r\nMusic\r\nDIRK HINKELMANN-GRUEBER\r\nEVGENIY MILITSA\r\nRUSSIAN STATE ARCHIVE OF PHONO DOCUMENTS\r\n\r\nAudio\r\nDIRK HINKELMANN-GRUEBER\r\nSTEPHEN ROBERT TAYLOR\r\nALEXEY GRITSENKO\r\n\r\nTexts\r\nEKATERINA YAKOVENKO\r\nANDREY OSTROVERKHOV\r\n\r\nConsultant\r\nMICHAEL KOBETS\r\n\r\n3D Testing\r\nVYACHESLAV KUDRYA\r\n\r\nTesting\r\nKIRILL GALANOV\r\nEKATERINA YAKOVENKO\r\nALEXEY GRITSENKO"
+    }
+    debriefing.psd {
+      Score Score
+      Bonuses Bonuses
+      CANCEL CANCEL
+      RESTART RESTART
+      CONTINUE CONTINUE
+      MENU MENU
+      QUIT QUIT
+    }
+    gallery.psd {
+      BACK BACK
+      QUIT QUIT
+    }
+    game.psd {
+      GAME GAME
+      DIFFICULTY DIFFICULTY
+      AIM AIMS
+      "AUTO AIM" "AUTO AIM"
+      "RADAR DISTANCE" "RADAR DISTANCE"
+      CONSOLE CONSOLE
+      Easy Easy
+      Normal Normal
+      Hard Hard
+      On On
+      Off Off
+      Light Light
+      Full Full
+      Precise Precise
+      Rough Rough
+      1km "1 km"
+      3km "3 km"
+      Low Low
+      High High
+    }
+    main.psd {
+      CAMPAIGN CAMPAIGN
+      MISSIONS MISSIONS
+      OPTIONS OPTIONS
+      GALLERY GALLERY
+      CREDITS CREDITS
+      PILOTS PILOTS
+      QUIT QUIT
+    }
+    missions.psd {
+      BRIEFING BRIEFING
+      Diary MISSIONS
+      NEXT NEXT
+      BACK BACK
+    }
+    options.psd {
+      GAME GAME
+      VIDEO VIDEO
+      AUDIO AUDIO
+      CONTROLS CONTROLS
+      BACK BACK
+      APPLY APPLY
+      QUIT QUIT
+    }
+    plane.psd {
+      BACK BACK
+      START START
+      param_names "Power\r\nAltitude\r\nCruise Velocity\r\nMax Velocity\r\n\r\nLife\r\n\r\nBombs\r\nRockets\r\nTorpedoes"
+    }
+    popup_campaign_name.psd {
+      "Enter your name:" "Enter campaign name:"
+      CANCEL CANCEL
+      OK OK
+    }
+    popup_name.psd {
+      "Enter your name:" "Enter your name:"
+      "Select your level:" "Select your level:"
+      CANCEL CANCEL
+      OK OK
+    }
+    popup_query.psd {
+      "Are you sure?" "Are you sure?"
+      NO NO
+      YES YES
+    }
+    pilot.psd {
+      NEW NEW
+      DELETE DELETE
+      PLAY PLAY
+      QUIT QUIT
+      s_names "Level\r\nScores\r\nAircrafts\r\nShips\r\nObjects\r\nMissions"
+      "HI SCORE:" "HI SCORE:"
+      "PILOT STATISTICS" "PILOT STATISTICS"
+    }
+    video.psd {
+      MODES_QUALITY_CHANGING "MODES & QUALITY CHANGING\r\n(Set preferred values)"
+      "VIDEO MODE" "VIDEO MODE"
+      "ANTIALIASING MODE" "ANTIALIASING MODE"
+      "TEXTURE DETAILS" "TEXTURE DETAILS"
+      "TEXTURE COMPRESSION" "TEXTURE COMPRESSION"
+      "GEOMETRY DETAILS" "GEOMETRY DETAILS"
+      "TERRAIN VISIBILITY" "TERRAIN VISIBILITY"
+      "TERRAIN DETAIL TEXTURES" "TERRAIN DETAIL TEXTURES"
+      On On
+      Off Off
+      Weak Weak
+      Rich Rich
+      Medium Medium
+      Near Near
+      Far Far
+      None None
+      VIDEO VIDEO
+      16Bit "16 Bit"
+    }
+  }
+}
